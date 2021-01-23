@@ -27,7 +27,7 @@ Your browser does not support the audio element.
 
 
 
-#### With a pre-trained DDSP model, we are able to reconstruct a wav file from the loudness and the pitch
+## With a pre-trained DDSP model, we are able to reconstruct a wav file from the loudness and the pitch
 ### Reconstructed audio of sample n°5
 
 
@@ -74,6 +74,13 @@ Your browser does not support the audio element.
 </audio>
 
 
+### Soundwaves of the generated samples
 
+![ggg ](Images/waveform_generated_6.png "Loudness Source et Loudness Reconstruite du sample 5")
+
+
+### Spectrograms of the generated samples
+
+![ggg ](Images/spectro_generated_6.png.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 
