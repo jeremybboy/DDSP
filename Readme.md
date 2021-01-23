@@ -24,10 +24,14 @@ https://jeremybboy.github.io/DDSP/
 </audio>
 
 
-### Audio of sample n°5
-!!document.createElement('audio').canPlayType
+### Audio of sample n°55
 
 <audio controls>
   <source src="samples/sample_source_5.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+
+
+<figure class="audio_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
