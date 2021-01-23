@@ -37,33 +37,39 @@ Your browser does not support the audio element.
 
 ### Generation of 6 samples 
 
+
 <audio controls>
-  <source src="samples/interp_lambda=0.0.mp3" type="audio/mp3">
+  <source src="samples/Interp_lambda=0.0.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
+
 <audio controls>
-  <source src="samples/interp_lambda=0.2.mp3" type="audio/mp3">
+  <source src="samples/Interp_lambda=0.2.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
+
 <audio controls>
-  <source src="samples/interp_lambda=0.4.mp3" type="audio/mp3">
+  <source src="samples/Interp_lambda=0.4.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
+
 <audio controls>
-  <source src="samples/interp_lambda=0.6.mp3" type="audio/mp3">
+  <source src="samples/Interp_lambda=0.6.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
+
 <audio controls>
-  <source src="samples/interp_lambda=0.8.mp3" type="audio/mp3">
+  <source src="samples/Interp_lambda=0.8.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
+
 <audio controls>
-  <source src="samples/interp_lambda=1.0.mp3" type="audio/mp3">
+  <source src="samples/Interp_lambda=1.0.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
