@@ -9,9 +9,9 @@ https://jeremybboy.github.io/DDSP/
 
 
 ### Source pitch and its reconstruction for sample n°5
-![ggg ](Images/pitch_5.png "ff")
+![ggg ](Images/pitch_5.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 
 ### Soundwave and Spectrogramme of sample n°5
-![ggg ](Images/soundwave_5.png "ff")
-![ggg ](Images/spectro_5.png "ff")
+![ggg ](Images/soundwave_5.png "Loudness Source et Loudness Reconstruite du sample 5")
+![ggg ](Images/spectro_5.png "Loudness Source et Loudness Reconstruite du sample 5")
