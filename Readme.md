@@ -27,7 +27,7 @@ Your browser does not support the audio element.
 
 
 
-## With a pre-trained DDSP model, we are able to reconstruct a wav file from the loudness and the pitch
+#### With a pre-trained DDSP model, we are able to reconstruct a wav file from the loudness and the pitch
 ### Reconstructed audio of sample n°5
 
 
