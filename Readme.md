@@ -19,6 +19,7 @@ https://jeremybboy.github.io/DDSP/
 ### Audio of sample n°5
 <audio controls="controls">
   <source type="audio/mp3" src="sample_source_5.mp3"></source>
+  <source type="audio/wav" src="sample_source_5.wav"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
