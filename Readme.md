@@ -1,9 +1,5 @@
-# DDSP
-
-link to try it directly : 
-https://jeremybboy.github.io/DDSP/
-
-     
+# Visualization and Listening
+    
 ### Source loudness and its reconstruction for sample n°5
 ![dddd ](Images/loudness_5.png "Loudness Source et Loudness Reconstruite du sample 5")
 
