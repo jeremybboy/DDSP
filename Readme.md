@@ -12,6 +12,6 @@ https://jeremybboy.github.io/DDSP/
 ![ggg ](Images/pitch_5.png "ff")
 
 
-### Soundwave et Spectrogramme of sample n°5
+### Soundwave and Spectrogramme of sample n°5
 ![ggg ](Images/soundwave_5.png "ff")
 ![ggg ](Images/spectro_5.png "ff")
