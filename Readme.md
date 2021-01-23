@@ -81,6 +81,6 @@ Your browser does not support the audio element.
 
 ### Spectrograms of the generated samples
 
-![ggg ](Images/spectro_generated_6.png.png "Loudness Source et Loudness Reconstruite du sample 5")
+![ggg ](Images/spectro_generated_6.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 
