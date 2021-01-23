@@ -25,6 +25,7 @@ https://jeremybboy.github.io/DDSP/
 
 
 ### Audio of sample n°5
+!!document.createElement('audio').canPlayType
 
 <audio controls>
   <source src="samples/sample_source_5.mp3" type="audio/mp3">
