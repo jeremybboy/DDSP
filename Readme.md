@@ -1,4 +1,17 @@
 # Visualization and Listening
+
+### Audio of sample n°5
+
+<audio controls>
+  <source src="samples/sample_source_5.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+### Soundwave and Spectrogramme of sample n°5
+![ggg ](Images/soundwave_5.png "Loudness Source et Loudness Reconstruite du sample 5")
+![ggg ](Images/spectro_5.png "Loudness Source et Loudness Reconstruite du sample 5")
+
+
     
 ### Source loudness and its reconstruction for sample n°5
 ![dddd ](Images/loudness_5.png "Loudness Source et Loudness Reconstruite du sample 5")
@@ -8,18 +21,9 @@
 ![ggg ](Images/pitch_5.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 
-### Soundwave and Spectrogramme of sample n°5
-![ggg ](Images/soundwave_5.png "Loudness Source et Loudness Reconstruite du sample 5")
-![ggg ](Images/spectro_5.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 
 
-### Audio of sample n°5
-
-<audio controls>
-  <source src="samples/sample_source_5.mp3" type="audio/mp3">
-Your browser does not support the audio element.
-</audio>
 
 
 
