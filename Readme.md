@@ -21,7 +21,7 @@ Your browser does not support the audio element.
 ![ggg ](Images/pitch_5.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 ### Comparison of Source and Reconstructed Waveform of sample n°5
-![ggg ](Images/waveform_reconstruct.pdf "Loudness Source et Loudness Reconstruite du sample 5")
+![ggg ](Images/waveform_reconstruct.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 
 
