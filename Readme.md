@@ -23,12 +23,20 @@ Your browser does not support the audio element.
 ### Comparison of Source and Reconstructed Waveform of sample n°5
 ![ggg ](Images/waveform_reconstruct.png "Loudness Source et Loudness Reconstruite du sample 5")
 
-
-
+### Comparison of Source and Reconstructed Spectrogram of sample n°5
+![ggg ](Images/reconstructed_spectrogram.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 
 
 #### With a pre-trained DDSP model, we are able to reconstruct a wav file from the loudness and the pitch
+
+### Audio of sample n°5
+
+<audio controls>
+  <source src="samples/sample_source_5.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
 ### Reconstructed audio of sample n°5
 
 <audio controls>
