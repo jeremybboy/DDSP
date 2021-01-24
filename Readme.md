@@ -26,7 +26,10 @@ Your browser does not support the audio element.
 #### With a pre-trained DDSP model, we are able to reconstruct a wav file from the loudness and the pitch
 ### Reconstructed audio of sample n°5
 
-
+<audio controls>
+  <source src="samples/sample_reconstructed_5.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
 
 ## Interpolation
